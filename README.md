@@ -8,13 +8,11 @@
 
 ### 👨‍💻 About Me
 
-I am a **14-year-old developer** and **8th-grade student** from **Azerbaijan** 🇦🇿. I have a deep passion for technology, operating systems, and building tools that make life easier. Currently, I'm focusing on **Linux development** and improving my **English** skills for the Cambridge exams. 📚🌍
+I am a **14-year-old developer** and **8th-grade student** from **Azerbaijan** 🇦🇿. I have a deep passion for technology, operating systems, and building tools that make life easier.
 
-- 🔭 I’m currently working on **[Neo Linux](https://github.com/YOUR_GITHUB_USERNAME/Neo-Linux)**, my own Linux distribution project. 🐧
+- 🔭 I’m currently working on **[Verve OS](https://github.com/raufgraphicss/Verve-OS)**, my own Linux distribution project. 🐧
 - 🌱 I’m currently learning **C/C++, Python, and System Architecture**.
-- 🛠️ I'm building a **LocalSend alternative** for seamless file sharing. 📤
-- 🎬 Hobbyist **Voice Actor & Dubbing** enthusiast. I love bringing movie scenes to life! 🎙️
-- ☕ Future part-time **Barista** (planning to balance coffee and code during university).
+- 🛠️ I'm building a **alternative** for seamless file sharing. 📤
 
 ---
 
@@ -41,7 +39,7 @@ I am a **14-year-old developer** and **8th-grade student** from **Azerbaijan** �
 
 ### 🚀 Projects Spotlight
 
-#### 🐧 [Neo Linux]
+#### 🐧 [Verve-OS]
 > An ambitious project to create a custom, performance-oriented Linux distribution. I'm building this to understand the core of OS architecture.
 
 #### 📁 [LocalSend Alt]
@@ -64,11 +62,11 @@ I believe a good developer needs a reliable machine. Here is what I use to build
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Rauf's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raufgraphicss&show_icons=true&theme=tokyonight" alt="Rauf's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raufgraphicss&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
@@ -77,7 +75,6 @@ I believe a good developer needs a reliable machine. Here is what I use to build
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rauf" height="30" width="40" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rauf" height="30" width="40" /></a>
 </p>
 
 ---
