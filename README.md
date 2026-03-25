@@ -74,14 +74,6 @@ I believe a good developer needs a reliable machine. Here is what I use to build
 
 ---
 
-### 📫 Connect with me:
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rauf" height="30" width="40" /></a>
-</p>
-
----
-
 <p align="center">
   *"Code is like humor. When you have to explain it, it’s bad."* 💻✨
 </p>
