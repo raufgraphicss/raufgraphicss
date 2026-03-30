@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rauf!
 
-### 🏗️ Systems Architect | 💻 Vibe Coder | 🛡️ Cybersecurity Enthusiast
+### 🏗️ Systems Architect | 💻 Developer | 🛡️ Cybersecurity Enthusiast
 
 I don't just write code; **I build systems.** I focus on architecture, logic, and integration, utilizing AI as a powerful agent to orchestrate complex solutions. I understand the core principles behind the tools, focusing on the big picture.🧑‍💻✨
 
