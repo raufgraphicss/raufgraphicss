@@ -1,79 +1,46 @@
-# Hi there, I'm Rauf! 👋 🚀
+# 👋 Hi, I'm Rauf!
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raufgraphicss&label=Profile%20views&color=0e75b6&style=flat" alt="Rauf's Profile Views" />
-</p>
+### 🏗️ Systems Architect | 💻 Vibe Coder | 🛡️ Cybersecurity Enthusiast
 
----
-
-### 👨‍💻 About Me
-
-I am a **14-year-old developer** and **8th-grade student** from **Azerbaijan** 🇦🇿. I have a deep passion for technology, operating systems, and building tools that make life easier.
-
-- 🔭 I’m currently working on **[Verve OS](https://github.com/raufgraphicss/Verve-OS)**, my own Linux distribution project. 🐧
-- 🌱 I’m currently learning **C/C++, Python, and System Architecture**.
-- 🛠️ I'm building a **alternative** for seamless file sharing. 📤
+I don't just write code; **I build systems.** I focus on architecture, logic, and integration, utilizing AI as a powerful agent to orchestrate complex solutions. I understand the core principles behind the tools, focusing on the big picture.
 
 ---
 
-### 💻 My Tech Stack & Tools
+## 🚀 What I'm Up To
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Video_Editing-844FBA?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+* 🐧 **[VerveOS](https://github.com/raufgraphicss/VerveOS):** Developing a custom Linux distribution, focusing on kernel performance and user experience.
+* 🚗 **[LuxeDrive](https://github.com/raufgraphicss/luxedrive):** A modern vehicle comparison and analysis platform.
+* 🤖 **Automation:** Maintained a massive archive of 2000+ optimized automation scripts.
+* 🛡️ **Cybersecurity:** Actively studying network security and attack methodologies to build more secure systems.
 
 ---
 
-### 🚀 Projects Spotlight
+## 🛠️ My Tech Stack
 
-#### 🐧 [Verve-OS]
-> An ambitious project to create a custom, performance-oriented Linux distribution. I'm building this to understand the core of OS architecture.
-
-#### [SendRF]
-> A cross-platform file transfer tool designed for speed and privacy.
-
-#### [PackForge]
-> Alternative of Ninenite for all operation systems
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Programming Languages** | `C`, `C++`, `Java`, `Python`, `JavaScript`, `TypeScript`, `Bash/Shell Scripting`, `SQL` |
+| **Web Technologies** | `HTML5`, `CSS3`, `JSON` |
+| **Tools & Platforms** | `Git`, `GitHub`, `VS Code`, `Docker`, `Lovable AI` |
+| **Systems & Core** | `Linux (VerveOS)`, `Networking (TCP/IP)`, `System Architecture` |
 
 ---
 
-### 🖥️ My Battle Station (Setup)
+## 📊 My GitHub Stats
 
-I believe a good developer needs a reliable machine. Here is what I use to build my projects:
-
-- **Laptop:** MSI Pulse GL66 12UCK 💻
-- **Processor:** Intel Core i7 (12th Gen) ⚡
-- **Graphics:** NVIDIA GeForce RTX 3050 🎮
-- **Mouse:** Logitech G-Series 🖱️
-- **OS:** Dual-booting **Windows 11** & **Linux** (The best of both worlds! 🐧🪟)
+![Rauf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raufgraphicss&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raufgraphicss&layout=compact&theme=tokyonight)
 
 ---
 
-### 📊 GitHub Stats
+## 🌟 Vision & Goals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raufgraphicss&show_icons=true&theme=tokyonight" alt="Rauf's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raufgraphicss&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
+* **[VerveOS]** To build a fully functional and secure operating system from the ground up.
+* **[Security First]** To integrate **OWASP Top 10** standards into every project I build.
+* **[CTO Mindset]** To lead technology strategy and system design at scale.
 
 ---
 
-<p align="center">
-  *"Code is like humor. When you have to explain it, it’s bad."* 💻✨
-</p>
+## 📫 How to Reach Me
+
+* **GitHub:** [@raufgraphicss](https://github.com/raufgraphicss)
