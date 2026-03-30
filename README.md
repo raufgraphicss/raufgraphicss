@@ -28,7 +28,6 @@ I don't just write code; **I build systems.** I focus on architecture, logic, an
 
 ## 📊 My GitHub Stats
 
-![Rauf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raufgraphicss&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raufgraphicss&layout=compact&theme=tokyonight)
 
 ---
